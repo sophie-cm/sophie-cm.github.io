@@ -1,0 +1,55 @@
+body{
+	background-color: #77a1b5;
+}
+
+ul{
+	color: #1c2d34;
+}
+h3 {
+	color: #1c2d34;
+}
+
+h3, li, a, p {
+color: #c2d34;
+}
+img {
+	border-color: #729eb2;
+	border-width: 5px;
+	border-style: solid;
+	border-radius: 10%;
+}
+a:hover {
+	color:white;
+}
+.topnav {
+   background-color: #5d8fa7;
+   overflow: hidden;
+}
+
+.topnav a {
+   float: left;
+   color: white;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-size: 17px;
+}
+
+.topnav a:hover {
+   background-color: #33515f;
+   color: white;
+}
+
+.topnav a.active {
+   background-color: #507e91;
+   color: white;
+}
+.topnav{
+background-image:url("blue.jpg");
+}
+.nobubutton {
+   height: "100";
+   width:"200";
+   position:relative;
+   color: navy;
+}

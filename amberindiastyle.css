@@ -1,0 +1,14 @@
+body{
+	background-color: #393836;
+}
+
+ul{
+	color: black;
+}
+h3 {
+	color: navyblue;
+}
+
+h3, li, a, p {
+color: #FB9F89;
+}
